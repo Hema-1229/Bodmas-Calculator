@@ -41,5 +41,3 @@ Handles all logic:
 - Open the file in any modern web browser
 - Start entering expressions and enjoy instant calculations
 
-* Caution
-- The calculator uses eval() to process expressions, which can pose security risks if accepting user input from untrusted sources. Since this is a client-side demo, it’s acceptable, but in production, consider a more secure parser.
