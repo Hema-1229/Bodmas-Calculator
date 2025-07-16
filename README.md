@@ -1,4 +1,4 @@
- BODMAS Calculator
+ BODOMAS Calculator
 * Overview
 This project is a web-based calculator that follows the BODMAS rule (Brackets, Orders, Division and Multiplication, Addition and Subtraction). It supports basic arithmetic operations, square roots, percentages, exponents, and even includes simple memory functions.
 The calculator is built using HTML, CSS, and JavaScript, with a user-friendly interface and responsive styling for a clean desktop view.
